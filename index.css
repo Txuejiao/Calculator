@@ -1,44 +1,69 @@
-body{
+body {
   background-color: #B4A5A5;
 }
-.calculator{
+
+.calculator {
   background-color: #EDF6E5;
   width: 25em;
   height: 35em;
   padding: 0.2em;
   margin: 10em auto;
 }
-.displaySpace{
+
+.displaySpace {
   background-color: #EDF6E6;
   width: auto;
   height: 7em;
   margin: 0.01em;
 }
-table{
+
+.operationSpace {
+  height: 3em;
+  margin-bottom: 0.01em;
+  text-align: right;
+  font-size: 1.2em;
+  color: #536162;
+}
+
+.inputSpace {
+  text-align: right;
+  font-size: 2.2em;
+  color: #424642;
+}
+
+table {
   width: 25em;
   height: 28em;
   background-color: #EDF6E5;
 }
-td{
+
+td {
   font-size: 1.5em;
   text-align: center;
   border-style: solid;
   border-color: #EDF6E5;
   background-color: #D2F5E3;
-  border-width:0.01em;
+  border-width: 0.01em;
+  < < < < < < < HEAD = = = = = = =
+  color: #424642;
+>>> >>> > e8c0ae1 (submit the js file .)
 }
-td:hover{
-  opacity:50%;
+
+td:hover {
+  opacity: 50%;
   transition-duration: 1s;
   cursor: pointer;
 }
-.pink{
+
+.pink {
   background-color: #F6E5E9;
 }
-.red{
+
+.red {
   background-color: #FFD3B4;
 }
-footer{
+
+footer {
   text-align: center;
   margin-top: 3em;
 }
